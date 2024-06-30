@@ -1,0 +1,21 @@
+.alert-widget {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: none;
+}
+
+.alert-widget h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.alert-message {
+    font-style: italic;
+    color: #666;
+}
+
+.alert-active {
+    display: block;
+}
